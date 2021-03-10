@@ -1,12 +1,14 @@
-# React/Typescript Login
+# Project Trading App
 
-This simple app:
+A project that will eventually do something with trading (still figuring it out).
 
-- Demonstrates a React with Typescript frontend
-- React Context for protected routes
-- The use of Typescript interfaces
+This project demonstrates the following:
+
+- A React frontend
+- React Hooks and Context APIs
+- The use of Typescript and interfaces
 - Uses express as the backend
-- Integrates with Passport for authentication
+- Integrates with Passport.js for authentication
 - Connects with mongodb as the database
 
 

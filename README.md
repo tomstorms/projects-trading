@@ -5,7 +5,8 @@ A project that will eventually do something with trading (still figuring it out)
 This project demonstrates the following:
 
 - A React frontend
-- React Hooks and Context APIs
+- Use of React Hooks and Context APIs
+- Using the Ant Design framework
 - The use of Typescript and interfaces
 - Uses express as the backend
 - Integrates with Passport.js for authentication

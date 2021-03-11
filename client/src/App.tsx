@@ -15,7 +15,9 @@ function App() {
 
     return (
         <BrowserRouter>
-            <NavBar />
+            {ctx ? (
+                <NavBar />
+            ) : null }
             <Switch>
                 <Route path='/' exact component={HomePage}></Route>
                 {ctx ? (
